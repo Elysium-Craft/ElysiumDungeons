@@ -1,0 +1,4 @@
+name: ElysiumDungeons
+version: '0.1-SNAPSHOT'
+main: org.elysiumcraft.elysiumdungeons.ElysiumDungeons
+api-version: '1.20.6'
