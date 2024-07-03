@@ -2,3 +2,9 @@ name: ElysiumDungeons
 version: '${version}'
 main: org.elysiumcraft.elysiumdungeons.ElysiumDungeons
 api-version: '1.20.6'
+authors: [ Legendyboi ]
+depend:
+  - MythicMobs
+  - PlaceholderAPI
+  - Citizens
+  - ProtocolLib
